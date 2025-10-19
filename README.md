@@ -3,6 +3,8 @@
 
 A Streamlit app for visualizing Spotify listening data using **Python**, **Plotly**, and **Pandas**.
 
+You can view the dashboard live here: [Open Spotify Dashboard](https://spotify-dashboard-xqoyyixt9wa34kyukuglwe.streamlit.app/)
+
 ## 🚀 How to Run
 1. Clone this repo:
    ```bash
