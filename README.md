@@ -1,5 +1,7 @@
 
-# 🎵 Spotify Dashboard
+# 🎵 Spotify Dashboard  
+[<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" width="30" height="30" />](https://github.com/Bhakti261/spotify-dashboard)
+
 
 A Streamlit app for visualizing Spotify listening data using **Python**, **Plotly**, and **Pandas**.
 
